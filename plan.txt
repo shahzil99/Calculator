@@ -1,0 +1,15 @@
+Project Overview: This project is a basic calculator that allows users to perform simple arithmetic operations: addition, subtraction, multiplication, and division. It offers a menu-driven interface where users can select the desired operation and input two numbers to compute the result. The program runs continuously, allowing users to perform multiple operations until they choose to exit.
+
+How to Use:
+
+Run the Program: When the program starts, a menu with five options will be displayed.
+Select an Operation:
+1 for Addition
+2 for Subtraction
+3 for Multiplication
+4 for Division
+5 to Exit the Program
+Input Numbers: After selecting an operation, you will be prompted to input two numbers.
+View the Result: The program will display the result of the chosen operation.
+Repeat or Exit: The menu will reappear, allowing you to perform another operation or exit by selecting option 5.
+The program checks for invalid inputs, including division by zero, and prompts the user accordingly.
